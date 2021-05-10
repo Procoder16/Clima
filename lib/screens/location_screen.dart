@@ -117,6 +117,9 @@ class _LocationScreenState extends State<LocationScreen> {
                   style: kMessageTextStyle,
                 ),
               ),
+              SizedBox(
+                height: 0.0,
+              ),
             ],
           ),
         ),
